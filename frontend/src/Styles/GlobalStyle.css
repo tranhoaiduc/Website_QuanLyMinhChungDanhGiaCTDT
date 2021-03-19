@@ -1,0 +1,21 @@
+.custom-avatar-uploader {
+  display: flex !important;
+  flex-flow: row nowrap;
+  justify-content: center;
+}
+
+.custom-card {
+  overflow-y: auto;
+}
+
+.custom-card-total {
+  max-height: calc(100vh - 50px);
+}
+
+.custom-card::-webkit-scrollbar {
+  width: 2px;
+}
+
+.custom-card::-webkit-scrollbar-thumb {
+  background-color: rgb(0, 120, 220);
+}

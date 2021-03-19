@@ -1,0 +1,233 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\My Project\\Git Respository\\Website_QuanLyMinhChungDanhGiaCTDT\\backend\\QuanLyMinhChungDanhGiaCTDT\\QuanLyMinhChungDanhGiaCTDT.Shared\\QuanLyMinhChungDanhGiaCTDT.Shared.csproj": {}
+  },
+  "projects": {
+    "D:\\My Project\\Git Respository\\Website_QuanLyMinhChungDanhGiaCTDT\\backend\\QuanLyMinhChungDanhGiaCTDT\\QuanLyMinhChungDanhGiaCTDT.EntityFramework\\QuanLyMinhChungDanhGiaCTDT.EntityFramework.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\My Project\\Git Respository\\Website_QuanLyMinhChungDanhGiaCTDT\\backend\\QuanLyMinhChungDanhGiaCTDT\\QuanLyMinhChungDanhGiaCTDT.EntityFramework\\QuanLyMinhChungDanhGiaCTDT.EntityFramework.csproj",
+        "projectName": "QuanLyMinhChungDanhGiaCTDT.EntityFramework",
+        "projectPath": "D:\\My Project\\Git Respository\\Website_QuanLyMinhChungDanhGiaCTDT\\backend\\QuanLyMinhChungDanhGiaCTDT\\QuanLyMinhChungDanhGiaCTDT.EntityFramework\\QuanLyMinhChungDanhGiaCTDT.EntityFramework.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "D:\\My Project\\Git Respository\\Website_QuanLyMinhChungDanhGiaCTDT\\backend\\QuanLyMinhChungDanhGiaCTDT\\QuanLyMinhChungDanhGiaCTDT.EntityFramework\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\My Project\\Git Respository\\Website_QuanLyMinhChungDanhGiaCTDT\\backend\\QuanLyMinhChungDanhGiaCTDT\\QuanLyMinhChungDanhGiaCTDT.Models\\QuanLyMinhChungDanhGiaCTDT.Models.csproj": {
+                "projectPath": "D:\\My Project\\Git Respository\\Website_QuanLyMinhChungDanhGiaCTDT\\backend\\QuanLyMinhChungDanhGiaCTDT\\QuanLyMinhChungDanhGiaCTDT.Models\\QuanLyMinhChungDanhGiaCTDT.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\My Project\\Git Respository\\Website_QuanLyMinhChungDanhGiaCTDT\\backend\\QuanLyMinhChungDanhGiaCTDT\\QuanLyMinhChungDanhGiaCTDT.Models\\QuanLyMinhChungDanhGiaCTDT.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\My Project\\Git Respository\\Website_QuanLyMinhChungDanhGiaCTDT\\backend\\QuanLyMinhChungDanhGiaCTDT\\QuanLyMinhChungDanhGiaCTDT.Models\\QuanLyMinhChungDanhGiaCTDT.Models.csproj",
+        "projectName": "QuanLyMinhChungDanhGiaCTDT.Models",
+        "projectPath": "D:\\My Project\\Git Respository\\Website_QuanLyMinhChungDanhGiaCTDT\\backend\\QuanLyMinhChungDanhGiaCTDT\\QuanLyMinhChungDanhGiaCTDT.Models\\QuanLyMinhChungDanhGiaCTDT.Models.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "D:\\My Project\\Git Respository\\Website_QuanLyMinhChungDanhGiaCTDT\\backend\\QuanLyMinhChungDanhGiaCTDT\\QuanLyMinhChungDanhGiaCTDT.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\My Project\\Git Respository\\Website_QuanLyMinhChungDanhGiaCTDT\\backend\\QuanLyMinhChungDanhGiaCTDT\\QuanLyMinhChungDanhGiaCTDT.Shared\\QuanLyMinhChungDanhGiaCTDT.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\My Project\\Git Respository\\Website_QuanLyMinhChungDanhGiaCTDT\\backend\\QuanLyMinhChungDanhGiaCTDT\\QuanLyMinhChungDanhGiaCTDT.Shared\\QuanLyMinhChungDanhGiaCTDT.Shared.csproj",
+        "projectName": "QuanLyMinhChungDanhGiaCTDT.Shared",
+        "projectPath": "D:\\My Project\\Git Respository\\Website_QuanLyMinhChungDanhGiaCTDT\\backend\\QuanLyMinhChungDanhGiaCTDT\\QuanLyMinhChungDanhGiaCTDT.Shared\\QuanLyMinhChungDanhGiaCTDT.Shared.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "D:\\My Project\\Git Respository\\Website_QuanLyMinhChungDanhGiaCTDT\\backend\\QuanLyMinhChungDanhGiaCTDT\\QuanLyMinhChungDanhGiaCTDT.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\My Project\\Git Respository\\Website_QuanLyMinhChungDanhGiaCTDT\\backend\\QuanLyMinhChungDanhGiaCTDT\\QuanLyMinhChungDanhGiaCTDT.EntityFramework\\QuanLyMinhChungDanhGiaCTDT.EntityFramework.csproj": {
+                "projectPath": "D:\\My Project\\Git Respository\\Website_QuanLyMinhChungDanhGiaCTDT\\backend\\QuanLyMinhChungDanhGiaCTDT\\QuanLyMinhChungDanhGiaCTDT.EntityFramework\\QuanLyMinhChungDanhGiaCTDT.EntityFramework.csproj"
+              },
+              "D:\\My Project\\Git Respository\\Website_QuanLyMinhChungDanhGiaCTDT\\backend\\QuanLyMinhChungDanhGiaCTDT\\QuanLyMinhChungDanhGiaCTDT.Models\\QuanLyMinhChungDanhGiaCTDT.Models.csproj": {
+                "projectPath": "D:\\My Project\\Git Respository\\Website_QuanLyMinhChungDanhGiaCTDT\\backend\\QuanLyMinhChungDanhGiaCTDT\\QuanLyMinhChungDanhGiaCTDT.Models\\QuanLyMinhChungDanhGiaCTDT.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

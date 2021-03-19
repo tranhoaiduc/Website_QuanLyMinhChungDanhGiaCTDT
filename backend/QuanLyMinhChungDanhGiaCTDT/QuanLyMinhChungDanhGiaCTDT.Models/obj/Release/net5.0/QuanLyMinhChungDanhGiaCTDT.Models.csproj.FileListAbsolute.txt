@@ -1,0 +1,12 @@
+D:\My Project\Git Respository\Website_QuanLyMinhChungDanhGiaCTDT\backend\QuanLyMinhChungDanhGiaCTDT\QuanLyMinhChungDanhGiaCTDT.Models\bin\Release\net5.0\QuanLyMinhChungDanhGiaCTDT.Models.deps.json
+D:\My Project\Git Respository\Website_QuanLyMinhChungDanhGiaCTDT\backend\QuanLyMinhChungDanhGiaCTDT\QuanLyMinhChungDanhGiaCTDT.Models\bin\Release\net5.0\QuanLyMinhChungDanhGiaCTDT.Models.dll
+D:\My Project\Git Respository\Website_QuanLyMinhChungDanhGiaCTDT\backend\QuanLyMinhChungDanhGiaCTDT\QuanLyMinhChungDanhGiaCTDT.Models\bin\Release\net5.0\ref\QuanLyMinhChungDanhGiaCTDT.Models.dll
+D:\My Project\Git Respository\Website_QuanLyMinhChungDanhGiaCTDT\backend\QuanLyMinhChungDanhGiaCTDT\QuanLyMinhChungDanhGiaCTDT.Models\bin\Release\net5.0\QuanLyMinhChungDanhGiaCTDT.Models.pdb
+D:\My Project\Git Respository\Website_QuanLyMinhChungDanhGiaCTDT\backend\QuanLyMinhChungDanhGiaCTDT\QuanLyMinhChungDanhGiaCTDT.Models\obj\Release\net5.0\QuanLyMinhChungDanhGiaCTDT.Models.csprojAssemblyReference.cache
+D:\My Project\Git Respository\Website_QuanLyMinhChungDanhGiaCTDT\backend\QuanLyMinhChungDanhGiaCTDT\QuanLyMinhChungDanhGiaCTDT.Models\obj\Release\net5.0\QuanLyMinhChungDanhGiaCTDT.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Project\Git Respository\Website_QuanLyMinhChungDanhGiaCTDT\backend\QuanLyMinhChungDanhGiaCTDT\QuanLyMinhChungDanhGiaCTDT.Models\obj\Release\net5.0\QuanLyMinhChungDanhGiaCTDT.Models.AssemblyInfoInputs.cache
+D:\My Project\Git Respository\Website_QuanLyMinhChungDanhGiaCTDT\backend\QuanLyMinhChungDanhGiaCTDT\QuanLyMinhChungDanhGiaCTDT.Models\obj\Release\net5.0\QuanLyMinhChungDanhGiaCTDT.Models.AssemblyInfo.cs
+D:\My Project\Git Respository\Website_QuanLyMinhChungDanhGiaCTDT\backend\QuanLyMinhChungDanhGiaCTDT\QuanLyMinhChungDanhGiaCTDT.Models\obj\Release\net5.0\QuanLyMinhChungDanhGiaCTDT.Models.csproj.CoreCompileInputs.cache
+D:\My Project\Git Respository\Website_QuanLyMinhChungDanhGiaCTDT\backend\QuanLyMinhChungDanhGiaCTDT\QuanLyMinhChungDanhGiaCTDT.Models\obj\Release\net5.0\QuanLyMinhChungDanhGiaCTDT.Models.dll
+D:\My Project\Git Respository\Website_QuanLyMinhChungDanhGiaCTDT\backend\QuanLyMinhChungDanhGiaCTDT\QuanLyMinhChungDanhGiaCTDT.Models\obj\Release\net5.0\ref\QuanLyMinhChungDanhGiaCTDT.Models.dll
+D:\My Project\Git Respository\Website_QuanLyMinhChungDanhGiaCTDT\backend\QuanLyMinhChungDanhGiaCTDT\QuanLyMinhChungDanhGiaCTDT.Models\obj\Release\net5.0\QuanLyMinhChungDanhGiaCTDT.Models.pdb

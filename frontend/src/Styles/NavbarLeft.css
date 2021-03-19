@@ -1,0 +1,20 @@
+.fontAwesomeCustom {
+  height: 20px;
+  width: 20px;
+}
+
+.boxUserCollapsed {
+  height: 110px !important;
+  width: 100% !important;
+  display: flex !important;
+  flex-flow: row nowrap !important;
+  justify-content: center !important;
+  align-items: center !important;
+}
+
+.boxTitleCollapsed {
+  height: 100%;
+  width: 100%;
+  font-size: 25px !important;
+  text-align: center;
+}

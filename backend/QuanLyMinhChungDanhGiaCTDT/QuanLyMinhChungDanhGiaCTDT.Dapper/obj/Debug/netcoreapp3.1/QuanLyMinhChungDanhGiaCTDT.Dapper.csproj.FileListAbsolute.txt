@@ -1,0 +1,9 @@
+D:\My Project\Git Respository\Website_QuanLyMinhChungDanhGiaCTDT\backend\QuanLyMinhChungDanhGiaCTDT\QuanLyMinhChungDanhGiaCTDT.Dapper\bin\Debug\netcoreapp3.1\QuanLyMinhChungDanhGiaCTDT.Dapper.deps.json
+D:\My Project\Git Respository\Website_QuanLyMinhChungDanhGiaCTDT\backend\QuanLyMinhChungDanhGiaCTDT\QuanLyMinhChungDanhGiaCTDT.Dapper\bin\Debug\netcoreapp3.1\QuanLyMinhChungDanhGiaCTDT.Dapper.dll
+D:\My Project\Git Respository\Website_QuanLyMinhChungDanhGiaCTDT\backend\QuanLyMinhChungDanhGiaCTDT\QuanLyMinhChungDanhGiaCTDT.Dapper\bin\Debug\netcoreapp3.1\QuanLyMinhChungDanhGiaCTDT.Dapper.pdb
+D:\My Project\Git Respository\Website_QuanLyMinhChungDanhGiaCTDT\backend\QuanLyMinhChungDanhGiaCTDT\QuanLyMinhChungDanhGiaCTDT.Dapper\obj\Debug\netcoreapp3.1\QuanLyMinhChungDanhGiaCTDT.Dapper.csprojAssemblyReference.cache
+D:\My Project\Git Respository\Website_QuanLyMinhChungDanhGiaCTDT\backend\QuanLyMinhChungDanhGiaCTDT\QuanLyMinhChungDanhGiaCTDT.Dapper\obj\Debug\netcoreapp3.1\QuanLyMinhChungDanhGiaCTDT.Dapper.AssemblyInfoInputs.cache
+D:\My Project\Git Respository\Website_QuanLyMinhChungDanhGiaCTDT\backend\QuanLyMinhChungDanhGiaCTDT\QuanLyMinhChungDanhGiaCTDT.Dapper\obj\Debug\netcoreapp3.1\QuanLyMinhChungDanhGiaCTDT.Dapper.AssemblyInfo.cs
+D:\My Project\Git Respository\Website_QuanLyMinhChungDanhGiaCTDT\backend\QuanLyMinhChungDanhGiaCTDT\QuanLyMinhChungDanhGiaCTDT.Dapper\obj\Debug\netcoreapp3.1\QuanLyMinhChungDanhGiaCTDT.Dapper.csproj.CoreCompileInputs.cache
+D:\My Project\Git Respository\Website_QuanLyMinhChungDanhGiaCTDT\backend\QuanLyMinhChungDanhGiaCTDT\QuanLyMinhChungDanhGiaCTDT.Dapper\obj\Debug\netcoreapp3.1\QuanLyMinhChungDanhGiaCTDT.Dapper.dll
+D:\My Project\Git Respository\Website_QuanLyMinhChungDanhGiaCTDT\backend\QuanLyMinhChungDanhGiaCTDT\QuanLyMinhChungDanhGiaCTDT.Dapper\obj\Debug\netcoreapp3.1\QuanLyMinhChungDanhGiaCTDT.Dapper.pdb

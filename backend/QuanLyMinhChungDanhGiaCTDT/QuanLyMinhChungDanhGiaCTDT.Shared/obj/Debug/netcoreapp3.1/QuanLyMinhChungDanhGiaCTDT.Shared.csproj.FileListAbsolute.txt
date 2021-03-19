@@ -1,0 +1,9 @@
+D:\My Project\Git Respository\Website_QuanLyMinhChungDanhGiaCTDT\backend\QuanLyMinhChungDanhGiaCTDT\QuanLyMinhChungDanhGiaCTDT.Shared\bin\Debug\netcoreapp3.1\QuanLyMinhChungDanhGiaCTDT.Shared.deps.json
+D:\My Project\Git Respository\Website_QuanLyMinhChungDanhGiaCTDT\backend\QuanLyMinhChungDanhGiaCTDT\QuanLyMinhChungDanhGiaCTDT.Shared\bin\Debug\netcoreapp3.1\QuanLyMinhChungDanhGiaCTDT.Shared.dll
+D:\My Project\Git Respository\Website_QuanLyMinhChungDanhGiaCTDT\backend\QuanLyMinhChungDanhGiaCTDT\QuanLyMinhChungDanhGiaCTDT.Shared\bin\Debug\netcoreapp3.1\QuanLyMinhChungDanhGiaCTDT.Shared.pdb
+D:\My Project\Git Respository\Website_QuanLyMinhChungDanhGiaCTDT\backend\QuanLyMinhChungDanhGiaCTDT\QuanLyMinhChungDanhGiaCTDT.Shared\obj\Debug\netcoreapp3.1\QuanLyMinhChungDanhGiaCTDT.Shared.csprojAssemblyReference.cache
+D:\My Project\Git Respository\Website_QuanLyMinhChungDanhGiaCTDT\backend\QuanLyMinhChungDanhGiaCTDT\QuanLyMinhChungDanhGiaCTDT.Shared\obj\Debug\netcoreapp3.1\QuanLyMinhChungDanhGiaCTDT.Shared.AssemblyInfoInputs.cache
+D:\My Project\Git Respository\Website_QuanLyMinhChungDanhGiaCTDT\backend\QuanLyMinhChungDanhGiaCTDT\QuanLyMinhChungDanhGiaCTDT.Shared\obj\Debug\netcoreapp3.1\QuanLyMinhChungDanhGiaCTDT.Shared.AssemblyInfo.cs
+D:\My Project\Git Respository\Website_QuanLyMinhChungDanhGiaCTDT\backend\QuanLyMinhChungDanhGiaCTDT\QuanLyMinhChungDanhGiaCTDT.Shared\obj\Debug\netcoreapp3.1\QuanLyMinhChungDanhGiaCTDT.Shared.csproj.CoreCompileInputs.cache
+D:\My Project\Git Respository\Website_QuanLyMinhChungDanhGiaCTDT\backend\QuanLyMinhChungDanhGiaCTDT\QuanLyMinhChungDanhGiaCTDT.Shared\obj\Debug\netcoreapp3.1\QuanLyMinhChungDanhGiaCTDT.Shared.dll
+D:\My Project\Git Respository\Website_QuanLyMinhChungDanhGiaCTDT\backend\QuanLyMinhChungDanhGiaCTDT\QuanLyMinhChungDanhGiaCTDT.Shared\obj\Debug\netcoreapp3.1\QuanLyMinhChungDanhGiaCTDT.Shared.pdb

@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="DapperEntity\**" />
+    <Compile Remove="DapperServices\**" />
+    <EmbeddedResource Remove="DapperEntity\**" />
+    <EmbeddedResource Remove="DapperServices\**" />
+    <None Remove="DapperEntity\**" />
+    <None Remove="DapperServices\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="2.0.78" />
+    <PackageReference Include="Dapper.FluentMap" Version="2.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="5.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="5.0.0" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\QuanLyMinhChungDanhGiaCTDT.EntityFramework\QuanLyMinhChungDanhGiaCTDT.EntityFramework.csproj" />
+    <ProjectReference Include="..\QuanLyMinhChungDanhGiaCTDT.Models\QuanLyMinhChungDanhGiaCTDT.Models.csproj" />
+    <ProjectReference Include="..\QuanLyMinhChungDanhGiaCTDT.Shared\QuanLyMinhChungDanhGiaCTDT.Shared.csproj" />
+  </ItemGroup>
+
+</Project>
